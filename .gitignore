@@ -1,0 +1,6 @@
+
+# Datasets & OS/Jupyter files
+data/
+*.tar.gz
+.DS_Store
+.virtual_documents/
